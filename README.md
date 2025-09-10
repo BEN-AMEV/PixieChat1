@@ -125,7 +125,7 @@ If you want to test on actual devices:
 
 1. **Grab the code**
    ```bash
-   git clone https://github.com/yourusername/pixiechat.git
+   git clone https://github.com/BEN-AMEV/PixieChat1.git
    cd pixiechat
    ```
 
