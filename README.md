@@ -126,7 +126,7 @@ If you want to test on actual devices:
 1. **Grab the code**
    ```bash
    git clone https://github.com/BEN-AMEV/PixieChat1.git
-   cd pixiechat
+   cd PixieChat1
    ```
 
 2. **Install all the dependencies** (this might take a few minutes)
